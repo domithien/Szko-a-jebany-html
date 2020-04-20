@@ -1,0 +1,21 @@
+baner{
+    float: none
+    background-color:#829EB9;
+    text-align: center;
+    height: 50px;
+    font-family: "Arial" serif;
+
+}
+lewo{
+    float: left
+    background-color:#B3C6D9;
+    height: 600px;
+    width: 25%;
+}
+prawo{
+    float: right
+    background-color:#E0E9F1;
+    height: 600px;
+    width: 75%;
+    text-align: center;
+}
